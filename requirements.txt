@@ -1,0 +1,6 @@
+wandb
+ruamel.yaml
+colorama
+simple_parsing
+omegaconf
+pandas
